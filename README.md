@@ -7,3 +7,4 @@
 - WEEK4: Functions
 - WEEK5: Programmer's Toolbox
 - WEEK6: Conditional statements and logical operators
+- WEEK7: Looping statements
